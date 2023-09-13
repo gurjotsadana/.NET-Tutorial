@@ -1,0 +1,14 @@
+/Users/gurjotsadana/MyApp/bin/Debug/net7.0/MyApp
+/Users/gurjotsadana/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/gurjotsadana/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/gurjotsadana/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/gurjotsadana/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/gurjotsadana/MyApp/obj/Debug/net7.0/ref/MyApp.dll
